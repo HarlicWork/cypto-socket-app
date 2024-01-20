@@ -9,6 +9,12 @@
     "react": "*",
     "react-native": "*",
     "react-native-svg": "*",
-    "metro-config": "*"
+    "metro-config": "*",
+    "react-native-svg-transformer": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/stack": "*",
+    "react-native-gesture-handler": "*",
+    "react-native-screens": "*",
+    "react-native-safe-area-context": "*"
   }
 }
